@@ -1,3 +1,4 @@
 # Dattathreya
-My First Repositary
+My First Git Repositary
+<br>
 Author- Dattathreya J R
